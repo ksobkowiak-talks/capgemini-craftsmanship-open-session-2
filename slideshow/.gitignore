@@ -1,5 +1,5 @@
 .bundle/
 .decktape/
-reveal.js/
+node_modules/
 
 Gemfile.lock
